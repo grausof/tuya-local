@@ -31,6 +31,7 @@ HUB_CATEGORIES = [
     "wgsxj",  # Gateway camera
     "lyqwg",  # Router
     "bywg",  # IoT edge gateway
+    "btwg",  # Bluetooth gateway
     "zigbee",  # Gateway
     "wg2",  # Gateway
     "dgnzk",  # Multi-function controller
